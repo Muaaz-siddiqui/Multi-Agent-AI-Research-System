@@ -26,18 +26,17 @@ Built with LangGraph for agent orchestration, FastAPI for the REST API backend, 
 
 ## UI Preview
 
-### Home - Research Input
-![Home Page](./assets/home.png)
+### Home — Research Input
+<img src="./assets/home.png" alt="Home Page" width="700"/>
 
-### Results - Research Report & Critic Feedback
-![Results Page](./assets/results.png)
+### Results — Research Report & Critic Feedback
+<img src="./assets/results.png" alt="Results Page" width="700"/>
 
-### History - Past Research Runs
-![History Page](./assets/history.png)
+### History — Past Research Runs
+<img src="./assets/history.png" alt="History Page" width="700"/>
 
 ### Live Agent Pipeline
-![Agent Pipeline](./assets/pipeline.png)
-
+<img src="./assets/pipeline.png" alt="Agent Pipeline" width="700"/>
 ---
 
 ## Agent Pipeline
