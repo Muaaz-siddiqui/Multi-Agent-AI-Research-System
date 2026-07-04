@@ -3,7 +3,13 @@
 __pycache__/
 *.py[cod]
 *.db
-assets/
+assets/*
+!assets/
+!assets/thumbnail.png
+!assets/home.png
+!assets/results.png
+!assets/history.png
+!assets/pipeline.png
 frontend/dist/
 frontend/node_modules/
 node_modules/
@@ -11,3 +17,6 @@ node_modules/
 .pytest_cache/
 .ruff_cache/
 *.log
+EXTENSION_PLAN.md
+PROJECT_MEMORY.md
+

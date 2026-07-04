@@ -1,6 +1,8 @@
 # Multi-Agent AI Research System
 
 <div align="center">
+![Project Banner](./assets/thumbnail.png)
+
 **Autonomous AI pipeline where 4 specialized agents collaborate to research any topic end-to-end.**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)](https://python.org)
@@ -24,7 +26,17 @@ Built with LangGraph for agent orchestration, FastAPI for the REST API backend, 
 
 ## UI Preview
 
-Screenshots are omitted from this code-only repository export. The live UI includes the Home, Results, and History pages described below.
+### Home - Research Input
+![Home Page](./assets/home.png)
+
+### Results - Research Report & Critic Feedback
+![Results Page](./assets/results.png)
+
+### History - Past Research Runs
+![History Page](./assets/history.png)
+
+### Live Agent Pipeline
+![Agent Pipeline](./assets/pipeline.png)
 
 ---
 
