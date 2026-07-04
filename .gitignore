@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+assets/
+frontend/dist/
+frontend/node_modules/
+node_modules/
+.agents/
+.pytest_cache/
+.ruff_cache/
+*.log
